@@ -102,7 +102,7 @@ appendFilePath = true
 [[menu.main]]
 identifier = "categories"
 name = "categories"
-url = "/categories/"
+url = "/posts/"
 weight = 10
 
 [[menu.main]]
