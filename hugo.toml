@@ -59,13 +59,13 @@ url = "tags"
 Title = "Hi there 👋"
 Content = "Welcome to my blog"
 
-[[params.socialIcons]]
-name = "twitter"
-url = "https://twitter.com/"
+#   [[params.socialIcons]]
+#   name = "twitter"
+#   url = "https://twitter.com/"
 
-[[params.socialIcons]]
-name = "stackoverflow"
-url = "https://stackoverflow.com"
+#   [[params.socialIcons]]
+#   name = "stackoverflow"
+#   url = "https://stackoverflow.com"
 
 [[params.socialIcons]]
 name = "github"
@@ -89,8 +89,8 @@ SiteVerificationTag = "XYZabc"
 #   keys = [ "title", "permalink", "summary", "content" ]
 
 [[menu.main]]
-identifier = "categories"
-name = "categories"
+identifier = "post"
+name = "post"
 url = "/posts/"
 weight = 10
 
