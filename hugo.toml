@@ -42,9 +42,9 @@ tocopen = false
 enabled = true
 title = "Devlog"
 subtitle = "Hello !"
-imageUrl = "<blog_icon.png>"
-imageWidth = 120
-imageHeight = 120
+imageUrl = "blog_icon.png"
+imageWidth = 1024
+imageHeight = 1024
 imageTitle = "my image"
 
 [[params.profileMode.buttons]]
