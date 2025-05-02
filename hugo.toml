@@ -43,9 +43,9 @@ enabled = true
 title = "Devlog"
 subtitle = "Hello !"
 imageUrl = "blog_icon.png"
-imageWidth = 1024
-imageHeight = 1024
-imageTitle = "my image"
+imageWidth = 120
+imageHeight = 120
+imageTitle = "Icon image"
 
 [[params.profileMode.buttons]]
 name = "Posts"
