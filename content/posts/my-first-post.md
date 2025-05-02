@@ -6,4 +6,4 @@ title = 'My First Post'
 
 # For test writing
 
-I'm testing a hugo static webpage
+Test Writing.
