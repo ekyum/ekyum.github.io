@@ -2,7 +2,7 @@
 date = '2025-05-02T21:44:31+09:00'
 draft = true
 title = 'GraphAuth (Concpet)'
-tag = 'Projects'
+tags = 'Projects'
 +++
 
 # GraphAuth: Handwriting-Based Authentication System
