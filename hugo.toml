@@ -39,9 +39,9 @@ showtoc = false
 tocopen = false
 
 [params.profileMode]
-enabled = false
-title = "ExampleSite"
-subtitle = "This is subtitle"
+enabled = true
+title = "Devlog"
+subtitle = "Hello !"
 imageUrl = "<img location>"
 imageWidth = 120
 imageHeight = 120
@@ -59,13 +59,13 @@ url = "tags"
 Title = "Hi there 👋"
 Content = "Welcome to my blog"
 
-#   [[params.socialIcons]]
-#   name = "twitter"
-#   url = "https://twitter.com/"
+[[params.socialIcons]]
+name = "twitter"
+url = "https://twitter.com/"
 
-#   [[params.socialIcons]]
-#   name = "stackoverflow"
-#   url = "https://stackoverflow.com"
+[[params.socialIcons]]
+name = "stackoverflow"
+url = "https://stackoverflow.com"
 
 [[params.socialIcons]]
 name = "github"
@@ -74,21 +74,10 @@ url = "https://github.com/ekyum"
 [params.analytics.google]
 SiteVerificationTag = "XYZabc"
 
-[params.analytics.bing]
-SiteVerificationTag = "XYZabc"
-
-[params.analytics.yandex]
-SiteVerificationTag = "XYZabc"
-
 #   [params.cover]
 #   hidden = true
 #   hiddenInList = true
 #   hiddenInSingle = true
-
-[params.editPost]
-URL = "https://github.com/ekyum/blog/tree/main/content"
-Text = "Suggest Changes"
-appendFilePath = true
 
 #   [params.fuseOpts]
 #   isCaseSensitive = false
